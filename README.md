@@ -15,9 +15,9 @@
   <br />
 </div>
 
-![home-image](https://github.com/miinhho/nike-clonecoding/blob/main/image/home.png?raw=true)
-![shoe-list-image](https://github.com/miinhho/nike-clonecoding/blob/main/image/shoe-list.png?raw=true)
-![quality-shoes-image](https://github.com/miinhho/nike-clonecoding/blob/main/image/quality-shoes.png?raw=true)
-![special-offer-image](https://github.com/miinhho/nike-clonecoding/blob/main/image/special-offer.png?raw=true)
-![reviews-image](https://github.com/miinhho/nike-clonecoding/blob/main/image/reviews.png?raw=true)
-![footers-image](https://github.com/miinhho/nike-clonecoding/blob/main/image/footers.png?raw=true)
+![home-image](./image/home.png)
+![shoe-list-image](./image/shoe-list.png)
+![quality-shoes-image](./image/quality-shoes.png)
+![special-offer-image](./image/special-offer.png)
+![reviews-image](./image/reviews.png)
+![footers-image](./image/footers.png)
